@@ -1,0 +1,84 @@
+    1  openssl reg -x509 -newkey rsa:4096 -keyout private.key -out certificate.crt -days 365
+    2  opennssl req -x509 -newkey rsa:4096 -keyout private.key -out certificate.crt -days 365
+    3  "C:\Program Files\Git\usr\bin\openssl" req -x509 -newkey rsa:4096 -keyout private.key -out certificate.crt -days 365
+    4  cat
+    5  cat /c/Users/.ssh/id_rsa.pub
+    6  ssh-keygen
+    7  cat /c/Users/Sav4e/.ssh/id_rsa.pub
+    8  cat /c/Users/Sav4e/.ssh/id_ed25519.pub
+    9  shh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   10  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   11  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   12  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   13  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   14  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   15  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   16  cut
+   17  cat C/Users/Sav4e/
+   18  c/Users/Sav4e/.ssh
+   19  ls -la
+   20  ls -la C/Users/Sav4e
+   21  ls -la /C/Users/Sav4e
+   22  ls -la /C/Users/Sav4e/.ssh/
+   23  ssh -t
+   24  ssh -T git@github.com
+   25  git init 
+   26  echo "Hello from my comp" > README.md
+   27  git status
+   28  git add README.md
+   29  git status
+   30  history
+   31  [200~git clone https://github.com/Julian-O/Instagram-API-python.git
+   32  git clone https://github.com/Julian-O/Instagram-API-python.git
+   33  cd Instagram-API-python
+   34  pip install -r requirements.txt
+   35  vim credentials.py
+   36  python run Instagram-API-python
+   37  python main.py
+   38  ssh -i ich_key_pair ec2-user@linux.itcareerhub
+   39  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   40  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   41  ls -l
+   42  chmod +r profile.css
+   43  mkdir git_intro
+   44  cd git_intro
+   45  git init
+   46  copy "C:\Users\Sav4e\Pictures\Screenshots\Screenshot 2024-04-01 094459.png" git_intro
+   47  cp "C:/Users/Sav4e/Pictures/Screenshots/Screenshot 2024-04-01 094459.png" git_intro
+   48  git add photo.jpg
+   49  git add "Screenshot 2024-04-01 094459.png"
+   50  git add "C:/Users/Sav4e/Pictures/Screenshots/Screenshot 2024-04-01 094459.png"
+   51  git add "Screenshot 2024-04-01 094459.png"
+   52  ls
+   53  cp "C:/Users/Sav4e/Pictures/Screenshots/Screenshot 2024-04-01 094459.png" git_intro
+   54  ls
+   55  cp "C:/Users/Sav4e/Pictures/Screenshots/Screenshot 2024-04-01 094459.png" "git_intro"
+   56  ls
+   57  [200~cd git_intro
+   58  cd git_intro
+   59  cp /c/Users/Sav4e/Pictures/Screenshots/"Screenshot 2024-04-01 094459.png"
+   60  cp /c/Users/Sav4e/Pictures/Screenshots/"Screenshot 2024-04-01 094459.png" .
+   61  ls
+   62  git add "Screenshot 2024-04-01 094459.png"
+   63  git commit -m "Added Screenshot"
+   64  git config --global user.email "deutsch.vlad223@gmail.com"
+   65  git config --global user.name "SaabaV"
+   66  git commit -m "Added Screenshot"
+   67  git branch -M main
+   68  git remote add origin git@github.com:SaabaV/git_intro.git
+   69  git push -u origin main
+   70  git pull origin main
+   71  git push origin main
+   72  git pull origin main
+   73  git push origin main
+   74  git branch -M main
+   75  git remote add origin git@github.com:SaabaV/git_intro.git
+   76  git push -u origin main
+   77  ssh -i ich_key_pair ec2-user@linux.itcareerhub.de
+   78  git clone https://github.com/SaabaV/gitignore-demo
+   79  cd gitignore-demo
+   80  git checkout -b feature
+   81  git add .
+   82  git commit -m "Added changes to README.md and .gitignore"
+   83  git status
+   84  history > history.txt

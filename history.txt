@@ -82,3 +82,7 @@
    82  git commit -m "Added changes to README.md and .gitignore"
    83  git status
    84  history > history.txt
+   85  git add history.txt
+   86  git commit -m "Added command history"
+   87  git push origin main
+   88  history > history.txt
